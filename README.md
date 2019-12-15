@@ -8,3 +8,5 @@ Contoh format nomor teleponnya:
 - [x] +62 899 9564873
 - [x] +628999564873
 - [x] +62 8999564873
+
+Catatan: ini bukan nomer gue ya :)
